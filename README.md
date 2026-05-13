@@ -28,6 +28,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 | Bio-AI and genomics | [GenomeMCP](https://github.com/Eldergenix/GenomeMCP), [DeDNA](https://github.com/Eldergenix/DeDNA-), [NexVar](https://github.com/Eldergenix/NexVar), [ORCID publications](https://orcid.org/0000-0003-2268-053X) |
 | Production engineering | [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard), [Awesome Codex App Template](https://github.com/Eldergenix/awesome-codex-app-template) |
 | Scientific research automation | [Plato](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent), [GenomeMCP](https://github.com/Eldergenix/GenomeMCP), peer-reviewed publications below |
+| Live app review | [Plato](https://discovering.app), [DeDNA](https://dedna-genome-copilot-61049385056.us-west1.run.app/), [NexVar](https://nexvar-frontend-production.up.railway.app/) |
 
 ## What I Build
 
