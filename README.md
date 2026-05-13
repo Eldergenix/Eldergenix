@@ -11,6 +11,24 @@ I build systems where AI agents do useful work inside real engineering loops: re
   <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-lightgrey?style=social"></a>
 </p>
 
+## Selected Outcomes
+
+| Signal | Evidence |
+| --- | --- |
+| Public engineering footprint | 100+ public repositories and 800+ yearly GitHub contributions across AI agents, genomics, MCP, developer tooling, and Web3 infrastructure |
+| Scientific credibility | 3 peer-reviewed publications connected to ORCID `0000-0003-2268-053X` |
+| Production orientation | Full-stack apps, CI/CD review automation, incident-response agents, deployment recovery, and reusable app templates |
+| Research-to-product range | Projects span literature-grounded research agents, genome copilots, variant effect prediction, and agent runtime infrastructure |
+
+## Best Starting Points
+
+| If you are evaluating... | Start here |
+| --- | --- |
+| AI agent systems | [Plato](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent), [FireClaw](https://github.com/Eldergenix/FireClaw), [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard) |
+| Bio-AI and genomics | [GenomeMCP](https://github.com/Eldergenix/GenomeMCP), [DeDNA](https://github.com/Eldergenix/DeDNA-), [NexVar](https://github.com/Eldergenix/NexVar), [ORCID publications](https://orcid.org/0000-0003-2268-053X) |
+| Production engineering | [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard), [Awesome Codex App Template](https://github.com/Eldergenix/awesome-codex-app-template) |
+| Scientific research automation | [Plato](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent), [GenomeMCP](https://github.com/Eldergenix/GenomeMCP), peer-reviewed publications below |
+
 ## What I Build
 
 | Area | Evidence |
@@ -22,15 +40,22 @@ I build systems where AI agents do useful work inside real engineering loops: re
 
 ## Featured Work
 
-| Project | Focus | Why it matters |
-| --- | --- | --- |
-| [Plato Scientific Research Autonomous Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) | Multi-agent AI scientist | Converts experimental inputs into literature-grounded research workflows, reviewer loops, and publication-style outputs. |
-| [GenomeMCP](https://github.com/Eldergenix/GenomeMCP) | Genomics + MCP | Exposes ClinVar, gene, exon, intron, PubMed, and precision-medicine queries through an MCP interface. |
-| [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard) | Agentic DevOps | Automates incident response, deployment recovery, database-change review, and ticket updates with traceability. |
-| [FireClaw](https://github.com/Eldergenix/FireClaw) | Agent runtime research | Clean-room AI coding agent experiment across Mojo, Rust, and Python with MCP integration and permissioned tools. |
-| [DeDNA](https://github.com/Eldergenix/DeDNA-) | Genome copilot | Interactive genomic visualization and variant-risk screening for AI-assisted genomic analysis. |
-| [NexVar](https://github.com/Eldergenix/NexVar) | Bio-AI application | Full-stack variant effect prediction experience around DNA language model workflows. |
-| [Awesome Codex App Template](https://github.com/Eldergenix/awesome-codex-app-template) | AI app starter | Production-oriented monorepo template for AI applications, mobile export setup, and app infrastructure. |
+| Project | Focus | Why it matters | Proof |
+| --- | --- | --- | --- |
+| [Plato Scientific Research Autonomous Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) | Multi-agent AI scientist | Converts experimental inputs into literature-grounded research workflows, reviewer loops, and publication-style outputs. | [Repo](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) |
+| [GenomeMCP](https://github.com/Eldergenix/GenomeMCP) | Genomics + MCP | Exposes ClinVar, gene, exon, intron, PubMed, and precision-medicine queries through an MCP interface. | [Repo](https://github.com/Eldergenix/GenomeMCP) |
+| [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard) | Agentic DevOps | Automates incident response, deployment recovery, database-change review, and ticket updates with traceability. | [Repo](https://github.com/Eldergenix/autonomous-agent-runbook-guard) |
+| [FireClaw](https://github.com/Eldergenix/FireClaw) | Agent runtime research | Clean-room AI coding agent experiment across Mojo, Rust, and Python with MCP integration and permissioned tools. | [Repo](https://github.com/Eldergenix/FireClaw) |
+| [DeDNA](https://github.com/Eldergenix/DeDNA-) | Genome copilot | Interactive genomic visualization and variant-risk screening for AI-assisted genomic analysis. | [Live demo](https://dedna-genome-copilot-61049385056.us-west1.run.app/) |
+| [NexVar](https://github.com/Eldergenix/NexVar) | Bio-AI application | Full-stack variant effect prediction experience around DNA language model workflows. | [Live demo](https://nexvar-frontend-production.up.railway.app/) |
+| [Awesome Codex App Template](https://github.com/Eldergenix/awesome-codex-app-template) | AI app starter | Production-oriented monorepo template for AI applications, mobile export setup, and app infrastructure. | [Repo](https://github.com/Eldergenix/awesome-codex-app-template) |
+
+## Current Work
+
+- Building agentic scientific research systems that combine literature retrieval, tool use, evaluator loops, and publication-style outputs.
+- Expanding MCP-based genomics tooling for structured ClinVar, PubMed, and gene-query workflows.
+- Improving production agent runbooks for incident response, deployment recovery, and code-review automation.
+- Turning bio-AI research workflows into usable full-stack applications and recruiter-reviewable demos.
 
 ## Scientific Research Publications
 
