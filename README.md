@@ -5,9 +5,9 @@
 I build systems where AI agents do useful work inside real engineering loops: retrieval, tool use, evaluation, observability, incident response, developer automation, genomics, DeFi, and research operations.
 
 <p>
-  <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-f6f8fa?style=flat&logo=github&logoColor=24292f&labelColor=f6f8fa&color=d0d7de"></a>
-  <a href="https://github.com/Eldergenix"><img alt="GitHub contributions" src="https://img.shields.io/badge/Yearly%20activity-800%2B%20contributions-f6f8fa?style=flat&logo=github&logoColor=24292f&labelColor=f6f8fa&color=d0d7de"></a>
-  <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de"></a>
+  <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-lightgrey?style=social&logo=github"></a>
+  <a href="https://github.com/Eldergenix"><img alt="GitHub contributions" src="https://img.shields.io/badge/Yearly%20activity-800%2B%20contributions-lightgrey?style=social&logo=github"></a>
+  <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-lightgrey?style=social"></a>
 </p>
 
 ## Recruiter Signal
@@ -23,7 +23,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 ## GitHub Stats
 
 <p>
-  <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=github">
+  <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=transparent">
 </p>
 
 <p>
@@ -33,18 +33,18 @@ I build systems where AI agents do useful work inside real engineering loops: re
 <table>
   <tr>
     <td width="50%">
-      <img width="100%" alt="GitHub contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eldergenix&theme=github">
+      <img width="100%" alt="GitHub contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eldergenix&theme=transparent">
     </td>
     <td width="50%">
-      <img width="100%" alt="Most active commit hours" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eldergenix&theme=github&utcOffset=-5">
+      <img width="100%" alt="Most active commit hours" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eldergenix&theme=transparent&utcOffset=-5">
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img width="100%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eldergenix&theme=github">
+      <img width="100%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eldergenix&theme=transparent">
     </td>
     <td width="50%">
-      <img width="100%" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eldergenix&theme=github">
+      <img width="100%" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eldergenix&theme=transparent">
     </td>
   </tr>
 </table>
@@ -74,14 +74,14 @@ I build systems where AI agents do useful work inside real engineering loops: re
 ## Stack
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-f6f8fa?style=flat&logo=python&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-f6f8fa?style=flat&logo=typescript&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
-  <img alt="React" src="https://img.shields.io/badge/React-f6f8fa?style=flat&logo=react&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-f6f8fa?style=flat&logo=nodedotjs&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
-  <img alt="Mojo" src="https://img.shields.io/badge/Mojo-f6f8fa?style=flat&labelColor=f6f8fa&color=d0d7de">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-f6f8fa?style=flat&logo=swift&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-f6f8fa?style=flat&logo=supabase&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-f6f8fa?style=flat&logo=docker&logoColor=24292f&labelColor=f6f8fa&color=d0d7de">
+  <img alt="Python" src="https://img.shields.io/badge/Python-lightgrey?style=social&logo=python">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-lightgrey?style=social&logo=typescript">
+  <img alt="React" src="https://img.shields.io/badge/React-lightgrey?style=social&logo=react">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-lightgrey?style=social&logo=nodedotjs">
+  <img alt="Mojo" src="https://img.shields.io/badge/Mojo-lightgrey?style=social">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-lightgrey?style=social&logo=swift">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-lightgrey?style=social&logo=supabase">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-lightgrey?style=social&logo=docker">
 </p>
 
 ## How To Review This Profile
