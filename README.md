@@ -26,6 +26,10 @@ I build systems where AI agents do useful work inside real engineering loops: re
   <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=github_dark">
 </p>
 
+<p>
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-compact&hide_border=true&area=true">
+</p>
+
 <table>
   <tr>
     <td width="50%">
