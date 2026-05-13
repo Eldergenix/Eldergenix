@@ -36,8 +36,6 @@ My strongest work is in the pinned and featured repositories above. Some public 
 
 For recruiters and collaborators: start with Plato, GenomeMCP, Autonomous Agent Runbook Guard, FireClaw, DeDNA, and NexVar.
 
-For the cleanup and activity-improvement plan, see [GitHub Profile Activity Audit](https://github.com/Eldergenix/Eldergenix/blob/main/GITHUB_PROFILE_AUDIT.md).
-
 ## Links
 
 - Website: [nex-t1.ai](https://nex-t1.ai)
