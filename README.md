@@ -20,14 +20,30 @@ I build systems where AI agents do useful work inside real engineering loops: re
 | Technical breadth | Strong | Python, TypeScript, Mojo, Swift, Dart, full-stack systems, Web3 infrastructure |
 | Portfolio clarity | Improving | Pinned flagship repos, profile README, public roadmap issues, proof artifacts in progress |
 
-## Activity
+## GitHub Stats
 
 <p>
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eldergenix&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark">
-  <img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Eldergenix&theme=github-dark-blue&hide_border=true">
+  <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=github_dark">
 </p>
 
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-compact&hide_border=true&area=true">
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="GitHub contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eldergenix&theme=github_dark">
+    </td>
+    <td width="50%">
+      <img width="100%" alt="Most active commit hours" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eldergenix&theme=github_dark&utcOffset=-5">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img width="100%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eldergenix&theme=github_dark">
+    </td>
+    <td width="50%">
+      <img width="100%" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eldergenix&theme=github_dark">
+    </td>
+  </tr>
+</table>
 
 ## Focus Areas
 
