@@ -42,7 +42,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 
 | Project | Focus | Why it matters | Proof |
 | --- | --- | --- | --- |
-| [Plato Scientific Research Autonomous Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) | Multi-agent AI scientist | Converts experimental inputs into literature-grounded research workflows, reviewer loops, and publication-style outputs. | [Repo](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) |
+| [Plato Scientific Research Autonomous Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) | Multi-agent AI scientist | Converts experimental inputs into literature-grounded research workflows, reviewer loops, and publication-style outputs. | [Live app](https://discovering.app) |
 | [GenomeMCP](https://github.com/Eldergenix/GenomeMCP) | Genomics + MCP | Exposes ClinVar, gene, exon, intron, PubMed, and precision-medicine queries through an MCP interface. | [Repo](https://github.com/Eldergenix/GenomeMCP) |
 | [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard) | Agentic DevOps | Automates incident response, deployment recovery, database-change review, and ticket updates with traceability. | [Repo](https://github.com/Eldergenix/autonomous-agent-runbook-guard) |
 | [FireClaw](https://github.com/Eldergenix/FireClaw) | Agent runtime research | Clean-room AI coding agent experiment across Mojo, Rust, and Python with MCP integration and permissioned tools. | [Repo](https://github.com/Eldergenix/FireClaw) |
