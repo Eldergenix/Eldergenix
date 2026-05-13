@@ -30,24 +30,15 @@ I build systems where AI agents do useful work inside real engineering loops: re
   <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-compact&hide_border=true&area=true">
 </p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="GitHub contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eldergenix&theme=transparent">
-    </td>
-    <td width="50%">
-      <img width="100%" alt="Most active commit hours" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eldergenix&theme=transparent&utcOffset=-5">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img width="100%" alt="Repositories by language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eldergenix&theme=transparent">
-    </td>
-    <td width="50%">
-      <img width="100%" alt="Commits by language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eldergenix&theme=transparent">
-    </td>
-  </tr>
-</table>
+## Scientific Research Publications
+
+Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000-0003-2268-053X).
+
+| Year | Publication | Journal |
+| --- | --- | --- |
+| 2021 | [Chemical complementarity between immune receptors and cancer mutants, independent of antigen presentation protein binding, is associated with increased survival rates](https://doi.org/10.1016/j.tranon.2021.101069) | Translational Oncology |
+| 2021 | [Small heat shock protein 22 kDa can modulate the aggregation and liquid-liquid phase separation behavior of tau](https://doi.org/10.1002/pro.4060) | Protein Science |
+| 2021 | [A genomic approach to delineating the occurrence of scoliosis in arthrogryposis multiplex congenita](https://doi.org/10.3390/genes12071052) | Genes |
 
 ## Focus Areas
 
