@@ -5,9 +5,9 @@
 I build systems where AI agents do useful work inside real engineering loops: retrieval, tool use, evaluation, observability, incident response, developer automation, genomics, DeFi, and research operations.
 
 <p>
-  <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://github.com/Eldergenix"><img alt="GitHub contributions" src="https://img.shields.io/badge/Yearly%20activity-800%2B%20contributions-2563eb?style=for-the-badge&logo=github"></a>
-  <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-14b8a6?style=for-the-badge"></a>
+  <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-24292f?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://github.com/Eldergenix"><img alt="GitHub contributions" src="https://img.shields.io/badge/Yearly%20activity-800%2B%20contributions-0969da?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-1f883d?style=flat"></a>
 </p>
 
 ## Recruiter Signal
@@ -27,7 +27,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 </p>
 
 <p>
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-compact&hide_border=true&area=true">
+  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-dark&hide_border=true&area=true">
 </p>
 
 <table>
@@ -74,14 +74,14 @@ I build systems where AI agents do useful work inside real engineering loops: re
 ## Stack
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript">
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs">
-  <img alt="Mojo" src="https://img.shields.io/badge/Mojo-111827?style=flat-square">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-111827?style=flat-square&logo=swift">
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker">
+  <img alt="Python" src="https://img.shields.io/badge/Python-24292f?style=flat&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-24292f?style=flat&logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-24292f?style=flat&logo=react&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-24292f?style=flat&logo=nodedotjs&logoColor=white">
+  <img alt="Mojo" src="https://img.shields.io/badge/Mojo-24292f?style=flat">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-24292f?style=flat&logo=swift&logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-24292f?style=flat&logo=supabase&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-24292f?style=flat&logo=docker&logoColor=white">
 </p>
 
 ## How To Review This Profile
