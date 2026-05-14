@@ -97,6 +97,8 @@ Start with the featured repositories above. Some public repositories are forks, 
 
 For AI agent work, review **Plato**, **Autonomous Agent Runbook Guard**, and **FireClaw**. For scientific and genomics work, review **GenomeMCP**, **DeDNA**, **NexVar**, and the ORCID publications.
 
+Follow the [proof-artifact backlog](https://github.com/Eldergenix/Eldergenix/issues/3) for upcoming architecture screenshots and recruiter-facing walkthroughs.
+
 ## Links
 
 - Website: [nex-t1.ai](https://nex-t1.ai)
