@@ -78,18 +78,47 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
   <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-compact&hide_border=true&area=true">
 </p>
 
-## Stack
+## Skills
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-lightgrey?style=social&logo=python">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=social&logo=javascript">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-lightgrey?style=social&logo=typescript">
   <img alt="React" src="https://img.shields.io/badge/React-lightgrey?style=social&logo=react">
+  <img alt="React Native" src="https://img.shields.io/badge/React%20Native-lightgrey?style=social&logo=react">
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-lightgrey?style=social&logo=expo">
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-lightgrey?style=social&logo=nodedotjs">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-lightgrey?style=social&logo=fastapi">
+  <img alt="FastMCP" src="https://img.shields.io/badge/FastMCP-lightgrey?style=social">
   <img alt="Mojo" src="https://img.shields.io/badge/Mojo-lightgrey?style=social">
   <img alt="Swift" src="https://img.shields.io/badge/Swift-lightgrey?style=social&logo=swift">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-lightgrey?style=social&logo=pytorch">
+  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-lightgrey?style=social&logo=threedotjs">
+  <img alt="React Three Fiber" src="https://img.shields.io/badge/React%20Three%20Fiber-lightgrey?style=social">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-lightgrey?style=social&logo=tailwindcss">
+  <img alt="NativeWind" src="https://img.shields.io/badge/NativeWind-lightgrey?style=social">
+  <img alt="TanStack" src="https://img.shields.io/badge/TanStack-lightgrey?style=social&logo=reactquery">
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-lightgrey?style=social&logo=supabase">
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-lightgrey?style=social&logo=postgresql">
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-lightgrey?style=social&logo=amazonwebservices">
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-lightgrey?style=social&logo=railway">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-lightgrey?style=social&logo=vercel">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-lightgrey?style=social&logo=docker">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-lightgrey?style=social&logo=figma">
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-lightgrey?style=social&logo=adobephotoshop">
+  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft%20Excel-lightgrey?style=social&logo=microsoftexcel">
+  <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft%20Word-lightgrey?style=social&logo=microsoftword">
 </p>
+
+| Category | Skills |
+| --- | --- |
+| AI agents and research systems | MCP, FastMCP, tool orchestration, evaluator loops, retrieval, scientific workflow automation |
+| Backend and APIs | Python, FastAPI, Node.js, TypeScript, JavaScript, Postgres, Supabase, Docker |
+| Frontend and mobile | React, React Native, Expo, Tailwind CSS, NativeWind, TanStack Query, responsive product UI |
+| AI/ML and scientific computing | PyTorch, bio-AI workflows, genomics tooling, variant analysis, research automation |
+| 3D and interactive apps | Three.js, React Three Fiber, WebGL-style product experiences, interactive visualization |
+| Cloud and deployment | AWS, Railway, Vercel, CI/CD, deployment recovery, production observability |
+| Design and productivity | Figma, Photoshop, Microsoft Excel, Microsoft Word, technical documentation, research artifacts |
 
 ## How To Review This Profile
 
