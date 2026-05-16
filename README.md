@@ -7,6 +7,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 <p>
   <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-lightgrey?style=social&logo=github"></a>
   <a href="https://github.com/Eldergenix"><img alt="Yearly activity" src="https://img.shields.io/badge/Yearly%20activity-1,100%2B%20contributions-lightgrey?style=social&logo=github"></a>
+  <a href="https://github.com/Eldergenix"><img alt="Audited commits" src="https://img.shields.io/badge/Audited%20commits-2,718%20since%202025--05--16-lightgrey?style=social&logo=git"></a>
   <a href="https://orcid.org/0000-0003-2268-053X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--2268--053X-lightgrey?style=social"></a>
   <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-lightgrey?style=social"></a>
 </p>
@@ -16,6 +17,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 | Signal | Evidence |
 | --- | --- |
 | Public engineering footprint | 100+ public repositories and 1,100+ yearly GitHub contributions across AI agents, genomics, MCP, developer tooling, and Web3 infrastructure |
+| Audited engineering history | 2,718 unique real local commits since 2025-05-16 across GitHub repositories and active product worktrees |
 | Scientific credibility | 3 peer-reviewed publications connected to ORCID `0000-0003-2268-053X` |
 | Production orientation | Full-stack apps, CI/CD review automation, incident-response agents, deployment recovery, and reusable app templates |
 | Research-to-product range | Projects span literature-grounded research agents, genome copilots, variant effect prediction, and agent runtime infrastructure |
