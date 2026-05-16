@@ -78,6 +78,16 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 | Audited engineering history | 2,718 unique real local commits since 2025-05-16 across GitHub repositories |
 | Active delivery pattern | Private/org work is reviewed through pull requests, then merged into default branches when production-ready |
 
+### Recovered Work In Review
+
+| Repository | Visible work | Status |
+| --- | ---: | --- |
+| [Nex-Copilot Mobile Application](https://github.com/Nexis-AI/Nex-Copilot-Mobile-Application/tree/codex/dev-email-rewrite-2026-05-16) | 396 rewritten author-attributed commits | Recovery branch published |
+| [Nex-T1 Production](https://github.com/Nexis-AI/Nex-T1-Production/tree/integration/nex-copilot-v2-staging) | 89 integration commits | Non-production staging branch |
+| [Nex-T1 Extension](https://github.com/Nexis-AI/Nex-T1-Extension/pull/1) | 27 commits | Draft PR under review |
+| [Nexis Appchain](https://github.com/Nexis-AI/Nexis-appchain/pull/42) | 1 commit | Draft PR under review |
+| [Mintlify Docs](https://github.com/Eldergenix/mintlify-docs/tree/codex/mintlify-docs-recovery-2026-05-16) | 30 commits | Recovery branch published |
+
 <p>
   <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=transparent">
 </p>
