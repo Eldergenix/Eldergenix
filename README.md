@@ -70,6 +70,12 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 
 ## GitHub Activity
 
+| Signal | Current snapshot |
+| --- | --- |
+| Counted GitHub contributions | 1,100+ in the past year across commits, pull requests, issues, and repositories |
+| Audited engineering history | 2,718 unique real local commits since 2025-05-16 across GitHub repositories |
+| Active delivery pattern | Private/org work is reviewed through pull requests, then merged into default branches when production-ready |
+
 <p>
   <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=transparent">
 </p>
