@@ -6,8 +6,6 @@ I build systems where AI agents do useful work inside real engineering loops: re
 
 <p>
   <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-lightgrey?style=social&logo=github"></a>
-  <a href="https://github.com/Eldergenix"><img alt="Yearly activity" src="https://img.shields.io/badge/Yearly%20activity-1,100%2B%20contributions-lightgrey?style=social&logo=github"></a>
-  <a href="https://github.com/Eldergenix"><img alt="Audited commits" src="https://img.shields.io/badge/Audited%20commits-2,718%20since%202025--05--16-lightgrey?style=social&logo=git"></a>
   <a href="https://orcid.org/0000-0003-2268-053X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--2268--053X-lightgrey?style=social"></a>
   <a href="https://nex-t1.ai"><img alt="Website" src="https://img.shields.io/badge/Website-nex--t1.ai-lightgrey?style=social"></a>
 </p>
@@ -16,8 +14,7 @@ I build systems where AI agents do useful work inside real engineering loops: re
 
 | Signal | Evidence |
 | --- | --- |
-| Public engineering footprint | 100+ public repositories and 1,100+ yearly GitHub contributions across AI agents, genomics, MCP, developer tooling, and Web3 infrastructure |
-| Audited engineering history | 2,718 unique real local commits since 2025-05-16 across GitHub repositories and active product worktrees |
+| Public engineering footprint | 100+ public repositories across AI agents, genomics, MCP, developer tooling, and Web3 infrastructure |
 | Scientific credibility | 3 peer-reviewed publications connected to ORCID `0000-0003-2268-053X` |
 | Production orientation | Full-stack apps, CI/CD review automation, incident-response agents, deployment recovery, and reusable app templates |
 | Research-to-product range | Projects span literature-grounded research agents, genome copilots, variant effect prediction, and agent runtime infrastructure |
@@ -70,41 +67,6 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 | 2021 | [Small heat shock protein 22 kDa can modulate the aggregation and liquid-liquid phase separation behavior of tau](https://doi.org/10.1002/pro.4060) | Protein Science |
 | 2021 | [A genomic approach to delineating the occurrence of scoliosis in arthrogryposis multiplex congenita](https://doi.org/10.3390/genes12071052) | Genes |
 
-## GitHub Activity
-
-| Signal | Current snapshot |
-| --- | --- |
-| Counted GitHub contributions | 1,100+ in the past year across commits, pull requests, issues, and repositories |
-| Audited engineering history | 2,718 unique real local commits since 2025-05-16 across GitHub repositories |
-| Active delivery pattern | Private/org work is reviewed through pull requests, then merged into default branches when production-ready |
-
-### Recovered Work In Review
-
-| Repository | Visible work | Status |
-| --- | ---: | --- |
-| [Nex-Copilot Mobile Application](https://github.com/Nexis-AI/Nex-Copilot-Mobile-Application/tree/codex/dev-email-rewrite-2026-05-16) | 396 Eldergenix-attributed commits | Recovery branch published |
-| [Nex-T1 Production Hardening](https://github.com/Nexis-AI/Nex-T1-Production/tree/codex/noreply-production-hardening-email-rewrite-2026-05-16) | 198 Eldergenix-attributed commits | Recovery branch published |
-| [Plato Scientific Research Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent/tree/codex/noreply-clerk-labs-billing-email-rewrite-2026-05-16) | 143 Eldergenix-attributed commits | Recovery branch published |
-| [Nex-T1 Production](https://github.com/Nexis-AI/Nex-T1-Production/tree/integration/nex-copilot-v2-staging) | 89 integration commits | Non-production staging branch |
-| [Nex-Copilot Autonomous Agents](https://github.com/Nexis-AI/Nex-Copilot-Autonomous-Agents/tree/codex/noreply-dev-email-rewrite-2026-05-16) | 55 Eldergenix-attributed commits | Recovery branch published |
-| [Autonomous Real Estate](https://github.com/Eldergenix/autonomous-real-estate/tree/codex/noreply-private-email-rewrite-2026-05-16) | 46 Eldergenix-attributed commits | Recovery branch published |
-| [Nexis Network Crossmint](https://github.com/Nexis-Network/nexis-network/tree/codex/noreply-crossmint-dev-email-rewrite-2026-05-16) | 43 Eldergenix-attributed commits | Recovery branch published |
-| [Mintlify Docs](https://github.com/Eldergenix/mintlify-docs/tree/codex/mintlify-docs-recovery-2026-05-16) | 30 commits | Recovery branch published |
-| [Nex-T1 Extension](https://github.com/Nexis-AI/Nex-T1-Extension/pull/1) | 27 commits | Draft PR under review |
-| [NZT Homebase](https://github.com/Nexis-AI/NZT-Homebase/tree/codex/noreply-nzt-email-rewrite-2026-05-16) | 19 Eldergenix-attributed commits | Recovery branch published |
-| [DApp Directory](https://github.com/Nexis-AI/DApp-Directory/tree/codex/noreply-dapp-directory-email-rewrite-2026-05-16) | 8 Eldergenix-attributed commits | Recovery branch published |
-| [Nexis Agent Worker](https://github.com/Nexis-AI/nexis-agent-worker/tree/codex/noreply-agent-worker-email-rewrite-2026-05-16) | 6 Eldergenix-attributed commits | Recovery branch published |
-| [Nex-Copilot](https://github.com/Nexis-AI/Nex-Copilot/tree/codex/noreply-dev-email-rewrite-2026-05-16) | 3 Eldergenix-attributed commits | Recovery branch published |
-| [Nexis Appchain](https://github.com/Nexis-AI/Nexis-appchain/pull/42) | 1 commit | Draft PR under review |
-
-<p>
-  <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=transparent">
-</p>
-
-<p>
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Eldergenix&theme=github-compact&hide_border=true&area=true">
-</p>
-
 ## Skills
 
 <p>
@@ -152,8 +114,6 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 Start with the featured repositories above. Some public repositories are forks, research references, or upstream experiments used while building larger systems; the projects listed here are the clearest entry points for evaluating engineering depth.
 
 For AI agent work, review **Plato**, **Autonomous Agent Runbook Guard**, and **FireClaw**. For scientific and genomics work, review **GenomeMCP**, **DeDNA**, **NexVar**, and the ORCID publications.
-
-Follow the [proof-artifact backlog](https://github.com/Eldergenix/Eldergenix/issues/3) for upcoming architecture screenshots and recruiter-facing walkthroughs.
 
 ## Links
 
