@@ -82,11 +82,20 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 
 | Repository | Visible work | Status |
 | --- | ---: | --- |
-| [Nex-Copilot Mobile Application](https://github.com/Nexis-AI/Nex-Copilot-Mobile-Application/tree/codex/dev-email-rewrite-2026-05-16) | 396 rewritten author-attributed commits | Recovery branch published |
+| [Nex-Copilot Mobile Application](https://github.com/Nexis-AI/Nex-Copilot-Mobile-Application/tree/codex/dev-email-rewrite-2026-05-16) | 396 Eldergenix-attributed commits | Recovery branch published |
+| [Nex-T1 Production Hardening](https://github.com/Nexis-AI/Nex-T1-Production/tree/codex/noreply-production-hardening-email-rewrite-2026-05-16) | 198 Eldergenix-attributed commits | Recovery branch published |
+| [Plato Scientific Research Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent/tree/codex/noreply-clerk-labs-billing-email-rewrite-2026-05-16) | 143 Eldergenix-attributed commits | Recovery branch published |
 | [Nex-T1 Production](https://github.com/Nexis-AI/Nex-T1-Production/tree/integration/nex-copilot-v2-staging) | 89 integration commits | Non-production staging branch |
-| [Nex-T1 Extension](https://github.com/Nexis-AI/Nex-T1-Extension/pull/1) | 27 commits | Draft PR under review |
-| [Nexis Appchain](https://github.com/Nexis-AI/Nexis-appchain/pull/42) | 1 commit | Draft PR under review |
+| [Nex-Copilot Autonomous Agents](https://github.com/Nexis-AI/Nex-Copilot-Autonomous-Agents/tree/codex/noreply-dev-email-rewrite-2026-05-16) | 55 Eldergenix-attributed commits | Recovery branch published |
+| [Autonomous Real Estate](https://github.com/Eldergenix/autonomous-real-estate/tree/codex/noreply-private-email-rewrite-2026-05-16) | 46 Eldergenix-attributed commits | Recovery branch published |
+| [Nexis Network Crossmint](https://github.com/Nexis-Network/nexis-network/tree/codex/noreply-crossmint-dev-email-rewrite-2026-05-16) | 43 Eldergenix-attributed commits | Recovery branch published |
 | [Mintlify Docs](https://github.com/Eldergenix/mintlify-docs/tree/codex/mintlify-docs-recovery-2026-05-16) | 30 commits | Recovery branch published |
+| [Nex-T1 Extension](https://github.com/Nexis-AI/Nex-T1-Extension/pull/1) | 27 commits | Draft PR under review |
+| [NZT Homebase](https://github.com/Nexis-AI/NZT-Homebase/tree/codex/noreply-nzt-email-rewrite-2026-05-16) | 19 Eldergenix-attributed commits | Recovery branch published |
+| [DApp Directory](https://github.com/Nexis-AI/DApp-Directory/tree/codex/noreply-dapp-directory-email-rewrite-2026-05-16) | 8 Eldergenix-attributed commits | Recovery branch published |
+| [Nexis Agent Worker](https://github.com/Nexis-AI/nexis-agent-worker/tree/codex/noreply-agent-worker-email-rewrite-2026-05-16) | 6 Eldergenix-attributed commits | Recovery branch published |
+| [Nex-Copilot](https://github.com/Nexis-AI/Nex-Copilot/tree/codex/noreply-dev-email-rewrite-2026-05-16) | 3 Eldergenix-attributed commits | Recovery branch published |
+| [Nexis Appchain](https://github.com/Nexis-AI/Nexis-appchain/pull/42) | 1 commit | Draft PR under review |
 
 <p>
   <img width="100%" alt="Monthly GitHub contribution summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eldergenix&theme=transparent">
