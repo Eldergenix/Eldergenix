@@ -19,24 +19,26 @@ My strongest work sits at the intersection of **0-to-1 AI product engineering**,
 | Signal | Evidence |
 | --- | --- |
 | 0-to-1 AI product ownership | Brought 5 products and systems from concept to shipped product: Nex Copilot / Nex-T1, portal.nex-t1.ai, Nex Copilot mobile app, Plato Scientific, and a whole-genome sequencing pipeline for rare-disease variant analysis |
-| AI workflow execution | Shipped 10 AI workflows across agentic systems, product automation, research copilots, genomics workflows, and tool-using AI products |
+| AI workflow execution | Shipped 10 AI workflows across agentic systems, product automation, research copilots, genomics workflows, developer tooling, and tool-using AI products |
 | Integration depth | Integrated 300+ external tools/APIs across AI agents, product workflows, developer systems, scientific infrastructure, and data-backed applications |
 | Product leadership | Scoped MCPs and POCs, defined product requirements, owned product roadmaps, mapped user workflows, wrote PRDs, set acceptance criteria, and drove launch readiness |
 | Team and stakeholder leadership | Managed developer teams of 4, 12, and 16 while coordinating engineering, product, marketing, leadership, investors, customers, and users |
 | Community-facing product work | Communicated with a 25,000+ person community and supported monthly AMAs with 1,000+ users |
 | Public engineering footprint | 100+ public repositories across AI agents, genomics, MCP, developer tooling, scientific automation, and Web3 infrastructure |
 | Scientific credibility | 3 peer-reviewed publications connected to ORCID `0000-0003-2268-053X` |
-| Production orientation | Full-stack apps, CI/CD review automation, incident-response agents, deployment recovery, reusable app templates, runbooks, and audit-oriented agent workflows |
-| Research-to-product range | Projects span literature-grounded research agents, genome copilots, variant effect prediction, autonomous agent infrastructure, and AI-native product systems |
+| Production orientation | Full-stack apps, CI/CD review automation, incident-response agents, deployment recovery, reusable app templates, runbooks, proof-driven agent loops, and audit-oriented workflows |
+| Agent-native tooling depth | Proofloop, Orison, and AgentSwarm show execution across CLI tooling, compiler/toolchain design, multi-agent orchestration, security review, performance review, and evaluation loops |
+| Research-to-product range | Projects span literature-grounded research agents, genome copilots, variant effect prediction, autonomous agent infrastructure, programming-language tooling, and AI-native product systems |
 
 ## Best Starting Points
 
 | If you are evaluating... | Start here |
 | --- | --- |
 | Portfolio and product narrative | [Portfolio](https://eldergenix.com), [Nex Copilot](https://nex-t1.ai), [Plato Scientific](https://discovering.app) |
-| AI agent systems | [Plato](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent), [FireClaw](https://github.com/Eldergenix/FireClaw), [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard), [AgentSwarm](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents) |
+| AI agent systems | [Proofloop](https://github.com/Eldergenix/Proofloop), [AgentSwarm](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents), [Plato](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent), [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard), [FireClaw](https://github.com/Eldergenix/FireClaw) |
 | Bio-AI and genomics | [GenomeMCP](https://github.com/Eldergenix/GenomeMCP), [DeDNA](https://github.com/Eldergenix/DeDNA-), [NexVar](https://github.com/Eldergenix/NexVar), [ORCID publications](https://orcid.org/0000-0003-2268-053X) |
-| Production engineering | [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard), [Awesome Codex App Template](https://github.com/Eldergenix/awesome-codex-app-template) |
+| Production engineering | [Proofloop](https://github.com/Eldergenix/Proofloop), [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard), [Awesome Codex App Template](https://github.com/Eldergenix/awesome-codex-app-template) |
+| Agent-native developer tooling | [Proofloop](https://github.com/Eldergenix/Proofloop), [Orison](https://github.com/Eldergenix/Orison), [AgentSwarm](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents) |
 | Scientific research automation | [Plato](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent), [Plato Scientific live app](https://discovering.app), [GenomeMCP](https://github.com/Eldergenix/GenomeMCP), peer-reviewed publications below |
 | Live app review | [Portfolio](https://eldergenix.com), [Nex Copilot](https://nex-t1.ai), [Nex Copilot mobile app](https://testflight.apple.com/join/TSb64zQy), [Plato Scientific](https://discovering.app), [DeDNA](https://dedna-genome-copilot-61049385056.us-west1.run.app/), [NexVar](https://nexvar-frontend-production.up.railway.app/) |
 
@@ -45,8 +47,9 @@ My strongest work sits at the intersection of **0-to-1 AI product engineering**,
 | Area | Evidence |
 | --- | --- |
 | Founding AI product engineering | 0-to-1 AI products, MVP scoping, product bets, roadmap ownership, PRDs, launch readiness, product feedback loops, and technical debt tradeoffs |
-| Autonomous agent systems | MCP servers, tool-using runtimes, orchestration loops, permissioned execution, controlled actions, evaluator loops, and developer automation |
+| Autonomous agent systems | MCP servers, tool-using runtimes, orchestration loops, context routers, budgeted agent swarms, permissioned execution, controlled actions, evaluator loops, and developer automation |
 | AI workflow infrastructure | Retrieval, structured outputs, model/tool routing, database-backed actions, human review, approval gates, observability, and runbook-backed execution |
+| Agent-native developer tooling | Proof-driven agent loops, compiler diagnostics, structural patching, language/toolchain experiments, CLI workflows, LSP/package tooling, and CI-backed quality gates |
 | Bio-AI and genomics | Genome query tooling, variant-risk interfaces, whole-genome sequencing pipelines, scientific workflow automation, and peer-reviewed publications |
 | Production engineering | CI review agents, incident-response automation, deployment recovery, postcondition checks, audit bundles, service documentation, and full-stack applications |
 | Applied AI infrastructure | Research copilots, scientific agents, Web3 agents, secure execution workflows, integration roadmaps, and reusable app infrastructure |
@@ -61,7 +64,9 @@ My strongest work sits at the intersection of **0-to-1 AI product engineering**,
 | [Plato Scientific Research Autonomous Agent](https://github.com/Eldergenix/Plato-Scientific-Research-Autonomous-Agent) | Multi-agent AI scientist | Converts experimental inputs into literature-grounded research workflows, reviewer loops, structured reasoning, and publication-style outputs. | [Live app](https://discovering.app) |
 | [GenomeMCP](https://github.com/Eldergenix/GenomeMCP) | Genomics + MCP | Exposes ClinVar, gene, exon, intron, PubMed, and precision-medicine queries through an MCP interface for structured biological tool use. | [Repo](https://github.com/Eldergenix/GenomeMCP) |
 | [Autonomous Agent Runbook Guard](https://github.com/Eldergenix/autonomous-agent-runbook-guard) | Enterprise agent runbooks | Reusable safety and execution layer for agentic workflows with typed plans, policies, approvals, dry runs, postcondition checks, and audit bundles. | [Repo](https://github.com/Eldergenix/autonomous-agent-runbook-guard) |
-| [AgentSwarm](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents) | Multi-agent orchestration | Multi-agent research and security-agent system exploring council-style coordination, role-based agents, and orchestrated AI workflows. | [Repo](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents) |
+| [Proofloop](https://github.com/Eldergenix/Proofloop) | Proof-driven agent loop CLI | Bun/TypeScript CLI that coordinates Claude and Codex through plan creation, persistent paired run state, tmux/worktree execution, bridge messaging, and adversarial security/performance gates before completion. | [Repo](https://github.com/Eldergenix/Proofloop) |
+| [Orison](https://github.com/Eldergenix/Orison) | Agent-native programming language | Rust compiler/toolchain project for a memory-safe, statically typed full-stack language with capability-secured effects, JSON diagnostics, Patch IR, LSP/package tooling, and an alpha quality gate with 456 passing tests. | [Repo](https://github.com/Eldergenix/Orison) |
+| [AgentSwarm](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents) | Context-optimized multi-agent orchestration | Python package and CLI for scoped context packets, budget allocation, context auditing, council/deep-research/security agent groups, final synthesis, and publication-style evaluation of token, cost, and reliability tradeoffs. | [Repo](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents) |
 | [FireClaw](https://github.com/Eldergenix/FireClaw) | Agent runtime research | Clean-room AI coding agent experiment across Mojo, Rust, and Python with MCP integration and permissioned tools. | [Repo](https://github.com/Eldergenix/FireClaw) |
 | [DeDNA](https://github.com/Eldergenix/DeDNA-) | Genome copilot | Interactive genomic visualization and variant-risk screening for AI-assisted genomic analysis, with safety framing around non-diagnostic interpretation and user trust. | [Live demo](https://dedna-genome-copilot-61049385056.us-west1.run.app/) |
 | [NexVar](https://github.com/Eldergenix/NexVar) | Bio-AI application | Full-stack variant effect prediction experience around DNA language model workflows, long-range genomic context, and ClinVar-style benchmarking. | [Live demo](https://nexvar-frontend-production.up.railway.app/) |
@@ -71,6 +76,9 @@ My strongest work sits at the intersection of **0-to-1 AI product engineering**,
 
 - Building **Nex Copilot / Nex-T1** as an AI-native copilot and agentic workflow platform across web, portal, and mobile surfaces.
 - Building **Plato Scientific** as an autonomous scientific research system that combines literature retrieval, tool use, evaluator loops, and publication-style outputs.
+- Building **Proofloop** as a proof-driven Claude/Codex execution loop with persisted sessions, paired review, and adversarial security/performance gates.
+- Building **Orison** as an agent-native language and Rust toolchain for typed diagnostics, capability-aware effects, Patch IR, and AI-optimized edit-check-repair workflows.
+- Building **AgentSwarm** as a context-optimized orchestration framework for multi-agent teams with routing, budget allocation, council review, research agents, and security review agents.
 - Expanding MCP-based genomics tooling for structured ClinVar, PubMed, gene-query, pathway, and precision-medicine workflows.
 - Improving production agent runbooks for incident response, deployment recovery, code-review automation, postcondition checks, approval gates, and audit-ready execution.
 - Turning bio-AI research workflows into usable full-stack applications, customer-reviewable demos, and product systems that can survive real user feedback.
@@ -103,6 +111,8 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
   <img alt="Python" src="https://img.shields.io/badge/Python-lightgrey?style=social&logo=python">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-lightgrey?style=social&logo=javascript">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-lightgrey?style=social&logo=typescript">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-lightgrey?style=social&logo=rust">
+  <img alt="Bun" src="https://img.shields.io/badge/Bun-lightgrey?style=social&logo=bun">
   <img alt="React" src="https://img.shields.io/badge/React-lightgrey?style=social&logo=react">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-lightgrey?style=social&logo=nextdotjs">
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-lightgrey?style=social&logo=react">
@@ -134,10 +144,11 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 
 | Category | Skills |
 | --- | --- |
-| AI agents and research systems | MCP, FastMCP, tool orchestration, evaluator loops, retrieval, structured outputs, controlled tool execution, scientific workflow automation |
+| AI agents and research systems | MCP, FastMCP, tool orchestration, context routing, token budget allocation, council review, security review agents, evaluator loops, retrieval, structured outputs, controlled tool execution, scientific workflow automation |
 | AI product engineering | Product roadmap ownership, customer discovery, user workflow mapping, PRDs, MVP scoping, product bets, prioritization, acceptance criteria, launch readiness, product feedback loops |
 | Agent evaluation and reliability | Quality metrics, agent evaluation, approval gates, dry runs, postcondition checks, audit bundles, observability loops, technical debt tradeoffs |
-| Backend and APIs | Python, FastAPI, Node.js, TypeScript, JavaScript, REST APIs, Postgres, Supabase, Redis, Docker |
+| Backend and APIs | Python, FastAPI, Node.js, Bun, TypeScript, JavaScript, Rust, REST APIs, Postgres, Supabase, Redis, Docker |
+| Developer tooling and language systems | CLI tooling, compiler architecture, static analysis, typed diagnostics, JSON schemas, structural patches, LSP/package tooling, test gates |
 | Frontend and mobile | React, Next.js, React Native, Expo, Tailwind CSS, NativeWind, TanStack Query, responsive product UI |
 | AI/ML and scientific computing | PyTorch, bio-AI workflows, genomics tooling, variant analysis, whole-genome sequencing pipelines, research automation |
 | 3D and interactive apps | Three.js, React Three Fiber, WebGL-style product experiences, interactive visualization |
@@ -149,9 +160,11 @@ Research outputs connected to [ORCID 0000-0003-2268-053X](https://orcid.org/0000
 
 Start with the featured repositories and live products above. Some public repositories are forks, research references, or upstream experiments used while building larger systems; the projects listed here are the clearest entry points for evaluating engineering depth.
 
-For **founding AI product engineering**, review **Nex Copilot**, **Plato Scientific**, **Autonomous Agent Runbook Guard**, and **Awesome Codex App Template**.
+For **founding AI product engineering**, review **Nex Copilot**, **Plato Scientific**, **Proofloop**, **Autonomous Agent Runbook Guard**, and **Awesome Codex App Template**.
 
-For **AI agent systems**, review **Plato**, **Autonomous Agent Runbook Guard**, **AgentSwarm**, and **FireClaw**.
+For **AI agent systems**, review **Proofloop**, **AgentSwarm**, **Plato**, **Autonomous Agent Runbook Guard**, and **FireClaw**.
+
+For **developer tooling and language systems**, review **Proofloop** and **Orison**.
 
 For **scientific and genomics work**, review **GenomeMCP**, **DeDNA**, **NexVar**, and the ORCID publications.
 
