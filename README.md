@@ -169,11 +169,3 @@ For **developer tooling and language systems**, review **Proofloop** and **Oriso
 For **scientific and genomics work**, review **GenomeMCP**, **DeDNA**, **NexVar**, and the ORCID publications.
 
 For **product and operating style**, look for the recurring pattern across projects: ambiguous workflow → scoped product requirements → architecture → implementation → reviewable outputs → launch readiness → feedback loop → iteration.
-
-## Links
-
-- Portfolio: [eldergenix.com](https://eldergenix.com)
-- Nex Copilot: [nex-t1.ai](https://nex-t1.ai)
-- Nex Copilot Mobile: [TestFlight](https://testflight.apple.com/join/TSb64zQy)
-- Plato Scientific: [discovering.app](https://discovering.app)
-- GitHub: [github.com/Eldergenix](https://github.com/Eldergenix)
