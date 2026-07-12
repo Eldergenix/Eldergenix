@@ -139,16 +139,5 @@ and observed runtime behavior matter more than raw output volume.
 - **Research:** PyTorch, scientific retrieval, genomics, ClinVar, variant
   analysis, literature-grounded workflows
 
-## What I Am Looking For
-
-I am interested in Senior or Staff AI Engineering, Applied AI / Research
-Engineering, and founding AI engineering roles where I can own systems from
-technical strategy through production behavior.
-
-The best fit is a team working on agent infrastructure, AI-native products,
-developer tools, scientific AI, or high-trust automation—and looking for
-someone who can move between research, architecture, implementation, and
-product judgment.
-
 [Explore my work](https://eldergenix.com) ·
 [Review my repositories](https://github.com/Eldergenix?tab=repositories)
