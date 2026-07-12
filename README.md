@@ -8,6 +8,7 @@ My strongest work sits at the intersection of **0-to-1 AI product engineering**,
 
 <p>
   <a href="https://github.com/Eldergenix?tab=repositories"><img alt="Public repos" src="https://img.shields.io/badge/Public%20repos-100%2B-lightgrey?style=social&logo=github"></a>
+  <a href="https://user-badge.committers.top/united_states/Eldergenix"><img alt="committers.top badge" src="https://user-badge.committers.top/united_states/Eldergenix.svg"></a>
   <a href="https://orcid.org/0000-0003-2268-053X"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0003--2268--053X-lightgrey?style=social"></a>
   <a href="https://eldergenix.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-eldergenix.com-lightgrey?style=social"></a>
   <a href="https://nex-t1.ai"><img alt="Nex Copilot" src="https://img.shields.io/badge/Nex%20Copilot-nex--t1.ai-lightgrey?style=social"></a>
