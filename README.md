@@ -16,6 +16,8 @@ runtimes.
 [ORCID](https://orcid.org/0000-0003-2268-053X) ·
 [GitHub](https://github.com/Eldergenix)
 
+[![committers.top badge](https://user-badge.committers.top/united_states/Eldergenix.svg)](https://user-badge.committers.top/united_states/Eldergenix)
+
 ## What I Own at Staff Scope
 
 - **AI systems architecture:** define boundaries across model routing, tool
