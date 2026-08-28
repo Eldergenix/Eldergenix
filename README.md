@@ -8,9 +8,6 @@ I build production AI agent infrastructure end to end: multi-runtime inference, 
 [ORCID](https://orcid.org/0000-0003-2268-053X) ·
 [GitHub](https://github.com/Eldergenix)
 
-[![committers.top badge](https://user-badge.committers.top/united_states/Eldergenix.svg)](https://user-badge.committers.top/united_states/Eldergenix)
-re, and precision-medicine workflows.
-
 I have three peer-reviewed publications connected to
 [ORCID 0000-0003-2268-053X](https://orcid.org/0000-0003-2268-053X):
 
