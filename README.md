@@ -1,5 +1,7 @@
 # Eldergenix
 
+<img src="https://gitranks.com/api/badge/v2/eldergenix?ranking=s&context=country&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%23e4dcdc&valueBgColor=%2339627f" />
+
 I build production AI agent infrastructure end to end: multi-runtime inference, durable orchestration, tool execution, memory, evaluation, and the systems that prove whether any of it actually works.
 
 [Portfolio](https://eldergenix.com) ·
@@ -20,5 +22,3 @@ I have three peer-reviewed publications connected to
 - [A genomic approach to delineating scoliosis in arthrogryposis multiplex
   congenita](https://doi.org/10.3390/genes12071052)
   — *Genes*, 2021.
-
-<img src="https://gitranks.com/api/badge/v2/eldergenix?ranking=s&context=country&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%23e4dcdc&valueBgColor=%2339627f" />
