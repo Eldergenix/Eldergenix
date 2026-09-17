@@ -21,7 +21,4 @@ I have three peer-reviewed publications connected to
   congenita](https://doi.org/10.3390/genes12071052)
   — *Genes*, 2021.
 
-Additional research-oriented systems include
-[NexVar](https://github.com/Eldergenix/NexVar),
-[DeDNA](https://github.com/Eldergenix/DeDNA-), and
-[AgentSwarm](https://github.com/Eldergenix/AgentSwarm-Multi-Agent-Orchestration-with-Council-Research-and-Security-Agents).
+<img src="https://gitranks.com/api/badge/v2/eldergenix?ranking=s&context=country&type=percentile&meta=none&label=Stars+Rank&cornerStyle=rounded&labelBgColor=%23e4dcdc&valueBgColor=%2339627f" />
